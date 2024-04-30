@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Which country is often referred to as 'The Land Down Under' ?",
+        "answer_1": "Brazil",
+        "answer_2": "New Zealand",
+        "answer_3": "Australia",
+        "answer_4": "Argentina",
+        "right_answer": "Australia"
+    },
+    {
+        "title": "Which country is located on the Iberian Peninsula ?",
+        "answer_1": "Italy",
+        "answer_2": "Spain",
+        "answer_3": "Greece",
+        "answer_4": "Sweden",
+        "right_answer": "Spain"
+    },
+    {
+        "title": "Which country is famous for its colorful celebration known as Carnival ?",
+        "answer_1": "Brazil",
+        "answer_2": "Spain",
+        "answer_3": "Mexico",
+        "answer_4": "Italy",
+        "right_answer": "Brazil"
+    },
+    {
+        "title": "Which country is famous for its ancient ruins of Machu Picchu ?",
+        "answer_1": "Mexico",
+        "answer_2": "Peru",
+        "answer_3": "Argentina",
+        "answer_4": "Chile",
+        "right_answer": "Peru"
+    },
+    {
+        "title": "Which country is renowned for its tulip fields ?",
+        "answer_1": "Sweden",
+        "answer_2": "Belgium",
+        "answer_3": "Netherlands",
+        "answer_4": "Switzerland",
+        "right_answer": "Netherlands"
+    },
+    {
+        "title": "Which country is known as the 'Land of the Rising Sun' ?",
+        "answer_1": "China",
+        "answer_2": "Japan",
+        "answer_3": "Australia",
+        "answer_4": "India",
+        "right_answer": "Japan"
+    },
+    {
+        "title": "Which of the following countries is located in two continents ?",
+        "answer_1": "Brazil",
+        "answer_2": "Indonesia",
+        "answer_3": "Chile",
+        "answer_4": "All Of Them True",
+        "right_answer": "Indonesia"
+    },
+    {
+        "title": "Which country is famous for its fjords and northern lights ?",
+        "answer_1": "Norway",
+        "answer_2": "Finland",
+        "answer_3": "Sweden",
+        "answer_4": "Denmark",
+        "right_answer": "Norway"
+    },
+    {
+        "title": "Which country has the highest point above sea level ?",
+        "answer_1": "Nepal",
+        "answer_2": "Bhutan",
+        "answer_3": "China",
+        "answer_4": "Argentina",
+        "right_answer": "Nepal"
+    },
+    {
+        "title": "Who is the best one :) ?",
+        "answer_1": "Omar",
+        "answer_2": "First answer",
+        "answer_3": "Omar Diab",
+        "answer_4": "me",
+        "right_answer": "Omar Diab"
+    }
+]
